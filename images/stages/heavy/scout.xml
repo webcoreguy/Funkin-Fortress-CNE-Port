@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="scout.png">
+<SubTexture name="scout idle0000" x="1196" y="0" width="302" height="635" frameX="0" frameY="-13" frameWidth="302" frameHeight="648" />
+<SubTexture name="scout idle0001" x="1196" y="0" width="302" height="635" frameX="0" frameY="-13" frameWidth="302" frameHeight="648" />
+<SubTexture name="scout idle0002" x="897" y="0" width="299" height="640" frameX="-2" frameY="-8" frameWidth="302" frameHeight="648" />
+<SubTexture name="scout idle0003" x="897" y="0" width="299" height="640" frameX="-2" frameY="-8" frameWidth="302" frameHeight="648" />
+<SubTexture name="scout idle0004" x="598" y="0" width="299" height="645" frameX="-2" frameY="-3" frameWidth="302" frameHeight="648" />
+<SubTexture name="scout idle0005" x="598" y="0" width="299" height="645" frameX="-2" frameY="-3" frameWidth="302" frameHeight="648" />
+<SubTexture name="scout idle0006" x="299" y="0" width="299" height="647" frameX="-2" frameY="-1" frameWidth="302" frameHeight="648" />
+<SubTexture name="scout idle0007" x="299" y="0" width="299" height="647" frameX="-2" frameY="-1" frameWidth="302" frameHeight="648" />
+<SubTexture name="scout idle0008" x="0" y="0" width="299" height="648" frameX="-2" frameY="0" frameWidth="302" frameHeight="648" />
+<SubTexture name="scout idle0009" x="0" y="0" width="299" height="648" frameX="-2" frameY="0" frameWidth="302" frameHeight="648" />
+<SubTexture name="scout idle0010" x="0" y="0" width="299" height="648" frameX="-2" frameY="0" frameWidth="302" frameHeight="648" />
+<SubTexture name="scout idle0011" x="0" y="0" width="299" height="648" frameX="-2" frameY="0" frameWidth="302" frameHeight="648" />
+<SubTexture name="scout idle0012" x="0" y="0" width="299" height="648" frameX="-2" frameY="0" frameWidth="302" frameHeight="648" />
+<SubTexture name="scout idle0013" x="0" y="0" width="299" height="648" frameX="-2" frameY="0" frameWidth="302" frameHeight="648" />
+</TextureAtlas>

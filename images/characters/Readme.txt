@@ -1,1 +1,1 @@
-Here you'll put your custom characters images. If already know a bit of modding is kinda self explanatory prob.
+Put your custom character image and .xml/.txt files here!

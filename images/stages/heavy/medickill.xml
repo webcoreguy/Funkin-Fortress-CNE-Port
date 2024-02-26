@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="medickill.png">
+<SubTexture name="medickill die0000" x="5137" y="1831" width="1208" height="1509" frameX="-317" frameY="-473" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0001" x="5137" y="1831" width="1208" height="1509" frameX="-317" frameY="-473" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0002" x="2907" y="4250" width="1296" height="1542" frameX="-232" frameY="-306" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0003" x="0" y="2237" width="1663" height="2013" frameX="-138" frameY="-27" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0004" x="1663" y="2237" width="1663" height="2013" frameX="-138" frameY="-27" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0005" x="1733" y="0" width="1702" height="2062" frameX="-97" frameY="-4" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0006" x="3435" y="0" width="1702" height="2062" frameX="-97" frameY="-4" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0007" x="0" y="0" width="1733" height="2237" frameX="-6" frameY="-16" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0008" x="3326" y="2237" width="1239" height="1842" frameX="-283" frameY="-16" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0009" x="3326" y="2237" width="1239" height="1842" frameX="-283" frameY="-16" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0010" x="5137" y="0" width="1243" height="1831" frameX="-319" frameY="-27" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0011" x="1545" y="4250" width="1362" height="1646" frameX="-239" frameY="-268" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0012" x="0" y="4250" width="1545" height="1798" frameX="-146" frameY="-544" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0013" x="5137" y="3340" width="758" height="863" frameX="-319" frameY="-995" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0014" x="5137" y="3340" width="758" height="863" frameX="-319" frameY="-995" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0015" x="5137" y="3340" width="758" height="863" frameX="-319" frameY="-995" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0016" x="5137" y="3340" width="758" height="863" frameX="-319" frameY="-995" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0017" x="4203" y="4250" width="759" height="862" frameX="-323" frameY="-1000" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0018" x="4203" y="4250" width="759" height="862" frameX="-323" frameY="-1000" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0019" x="4203" y="4250" width="759" height="862" frameX="-323" frameY="-1000" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0020" x="4962" y="4250" width="761" height="861" frameX="-329" frameY="-1006" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0021" x="4962" y="4250" width="761" height="861" frameX="-329" frameY="-1006" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0022" x="4962" y="4250" width="761" height="861" frameX="-329" frameY="-1006" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0023" x="6380" y="0" width="765" height="860" frameX="-341" frameY="-1017" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0024" x="6380" y="0" width="765" height="860" frameX="-341" frameY="-1017" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0025" x="0" y="6048" width="773" height="857" frameX="-364" frameY="-1075" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0026" x="0" y="6048" width="773" height="857" frameX="-364" frameY="-1075" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0027" x="773" y="6048" width="847" height="813" frameX="-467" frameY="-1324" frameWidth="1810" frameHeight="2452" />
+<SubTexture name="medickill die0028" x="1620" y="6048" width="875" height="746" frameX="-689" frameY="-1700" frameWidth="1810" frameHeight="2452" />
+</TextureAtlas>

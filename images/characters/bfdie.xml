@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfdie.png">
+<SubTexture name="bfdie die0000" x="1445" y="1628" width="413" height="655" frameX="-254" frameY="-115" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0001" x="1445" y="1628" width="413" height="655" frameX="-254" frameY="-115" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0002" x="1858" y="1628" width="537" height="558" frameX="-226" frameY="-126" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0003" x="686" y="871" width="663" height="735" frameX="-111" frameY="-13" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0004" x="1349" y="871" width="663" height="735" frameX="-111" frameY="-13" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0005" x="1462" y="0" width="686" height="757" frameX="-110" frameY="-2" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0006" x="0" y="871" width="686" height="757" frameX="-110" frameY="-2" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0007" x="0" y="0" width="727" height="871" frameX="-84" frameY="-5" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0008" x="2148" y="711" width="691" height="679" frameX="-84" frameY="-5" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0009" x="741" y="1628" width="704" height="679" frameX="-75" frameY="-5" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0010" x="2148" y="0" width="736" height="711" frameX="-27" frameY="0" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0011" x="0" y="1628" width="741" height="681" frameX="-27" frameY="-70" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0012" x="727" y="0" width="735" height="759" frameX="-33" frameY="-155" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0013" x="0" y="2309" width="737" height="382" frameX="-33" frameY="-302" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0014" x="2884" y="614" width="736" height="305" frameX="-34" frameY="-395" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0015" x="2884" y="308" width="737" height="306" frameX="-34" frameY="-395" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0016" x="2884" y="1213" width="727" height="291" frameX="-33" frameY="-395" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0017" x="2884" y="1213" width="727" height="291" frameX="-33" frameY="-395" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0018" x="2884" y="919" width="729" height="294" frameX="-32" frameY="-395" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0019" x="2884" y="919" width="729" height="294" frameX="-32" frameY="-395" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0020" x="2884" y="0" width="745" height="308" frameX="-16" frameY="-395" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0021" x="2884" y="0" width="745" height="308" frameX="-16" frameY="-395" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0022" x="0" y="2691" width="756" height="308" frameX="-9" frameY="-395" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0023" x="0" y="2691" width="756" height="308" frameX="-9" frameY="-395" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0024" x="0" y="2691" width="756" height="308" frameX="-9" frameY="-395" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0025" x="1512" y="2309" width="765" height="309" frameX="-6" frameY="-395" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0026" x="1512" y="2309" width="765" height="309" frameX="-6" frameY="-395" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0027" x="1512" y="2309" width="765" height="309" frameX="-6" frameY="-395" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0028" x="737" y="2309" width="775" height="310" frameX="0" frameY="-395" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0029" x="737" y="2309" width="775" height="310" frameX="0" frameY="-395" frameWidth="811" frameHeight="914" />
+<SubTexture name="bfdie die0030" x="737" y="2309" width="775" height="310" frameX="0" frameY="-395" frameWidth="811" frameHeight="914" />
+</TextureAtlas>

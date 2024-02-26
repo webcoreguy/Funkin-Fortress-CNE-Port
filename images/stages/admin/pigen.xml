@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pigen.png">
+<SubTexture name="pigen idle0000" x="686" y="0" width="343" height="226" frameX="0" frameY="-7" frameWidth="343" frameHeight="233" />
+<SubTexture name="pigen idle0001" x="686" y="0" width="343" height="226" frameX="0" frameY="-7" frameWidth="343" frameHeight="233" />
+<SubTexture name="pigen idle0002" x="343" y="233" width="343" height="229" frameX="0" frameY="-4" frameWidth="343" frameHeight="233" />
+<SubTexture name="pigen idle0003" x="343" y="233" width="343" height="229" frameX="0" frameY="-4" frameWidth="343" frameHeight="233" />
+<SubTexture name="pigen idle0004" x="343" y="0" width="343" height="232" frameX="0" frameY="-1" frameWidth="343" frameHeight="233" />
+<SubTexture name="pigen idle0005" x="343" y="0" width="343" height="232" frameX="0" frameY="-1" frameWidth="343" frameHeight="233" />
+<SubTexture name="pigen idle0006" x="0" y="233" width="343" height="232" frameX="0" frameY="-1" frameWidth="343" frameHeight="233" />
+<SubTexture name="pigen idle0007" x="0" y="233" width="343" height="232" frameX="0" frameY="-1" frameWidth="343" frameHeight="233" />
+<SubTexture name="pigen idle0008" x="0" y="0" width="343" height="233" frameX="0" frameY="0" frameWidth="343" frameHeight="233" />
+<SubTexture name="pigen idle0009" x="0" y="0" width="343" height="233" frameX="0" frameY="0" frameWidth="343" frameHeight="233" />
+<SubTexture name="pigen idle0010" x="0" y="0" width="343" height="233" frameX="0" frameY="0" frameWidth="343" frameHeight="233" />
+<SubTexture name="pigen idle0011" x="0" y="0" width="343" height="233" frameX="0" frameY="0" frameWidth="343" frameHeight="233" />
+<SubTexture name="pigen idle0012" x="0" y="0" width="343" height="233" frameX="0" frameY="0" frameWidth="343" frameHeight="233" />
+<SubTexture name="pigen idle0013" x="0" y="0" width="343" height="233" frameX="0" frameY="0" frameWidth="343" frameHeight="233" />
+</TextureAtlas>

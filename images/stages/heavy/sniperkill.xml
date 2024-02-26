@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sniperkill.png">
+<SubTexture name="sniperkill die0000" x="2840" y="4250" width="1255" height="1509" frameX="-276" frameY="-473" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0001" x="2840" y="4250" width="1255" height="1509" frameX="-276" frameY="-473" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0002" x="5017" y="1877" width="1267" height="1579" frameX="-273" frameY="-306" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0003" x="0" y="2237" width="1626" height="2013" frameX="-6" frameY="-27" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0004" x="1626" y="2237" width="1626" height="2013" frameX="-6" frameY="-27" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0005" x="1693" y="0" width="1662" height="2062" frameX="-9" frameY="-4" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0006" x="3355" y="0" width="1662" height="2062" frameX="-9" frameY="-4" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0007" x="0" y="0" width="1693" height="2237" frameX="-67" frameY="-16" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0008" x="3252" y="2237" width="1254" height="1888" frameX="-278" frameY="-16" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0009" x="3252" y="2237" width="1254" height="1888" frameX="-278" frameY="-16" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0010" x="5017" y="0" width="1293" height="1877" frameX="-239" frameY="-27" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0011" x="1509" y="4250" width="1331" height="1646" frameX="-202" frameY="-268" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0012" x="0" y="4250" width="1509" height="1798" frameX="-114" frameY="-544" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0013" x="2774" y="6048" width="944" height="747" frameX="-588" frameY="-1157" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0014" x="2774" y="6048" width="944" height="747" frameX="-588" frameY="-1157" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0015" x="1831" y="6048" width="943" height="750" frameX="-585" frameY="-1160" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0016" x="1831" y="6048" width="943" height="750" frameX="-585" frameY="-1160" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0017" x="1831" y="6048" width="943" height="750" frameX="-585" frameY="-1160" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0018" x="890" y="6048" width="941" height="755" frameX="-582" frameY="-1164" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0019" x="890" y="6048" width="941" height="755" frameX="-582" frameY="-1164" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0020" x="890" y="6048" width="941" height="755" frameX="-582" frameY="-1164" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0021" x="5017" y="3456" width="930" height="775" frameX="-579" frameY="-1208" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0022" x="5017" y="3456" width="930" height="775" frameX="-579" frameY="-1208" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0023" x="0" y="6048" width="890" height="823" frameX="-555" frameY="-1321" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0024" x="0" y="6048" width="890" height="823" frameX="-555" frameY="-1321" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0025" x="6310" y="0" width="801" height="853" frameX="-529" frameY="-1446" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0026" x="6310" y="0" width="801" height="853" frameX="-529" frameY="-1446" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0027" x="4860" y="4250" width="842" height="955" frameX="-336" frameY="-1617" frameWidth="1770" frameHeight="2711" />
+<SubTexture name="sniperkill die0028" x="4095" y="4250" width="765" height="964" frameX="-238" frameY="-1739" frameWidth="1770" frameHeight="2711" />
+</TextureAtlas>

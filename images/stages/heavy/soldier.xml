@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="soldier.png">
+<SubTexture name="soldier idle0000" x="339" y="0" width="343" height="590" frameX="0" frameY="-12" frameWidth="343" frameHeight="602" />
+<SubTexture name="soldier idle0001" x="339" y="0" width="343" height="590" frameX="0" frameY="-12" frameWidth="343" frameHeight="602" />
+<SubTexture name="soldier idle0002" x="0" y="602" width="341" height="585" frameX="-1" frameY="-17" frameWidth="343" frameHeight="602" />
+<SubTexture name="soldier idle0003" x="0" y="602" width="341" height="585" frameX="-1" frameY="-17" frameWidth="343" frameHeight="602" />
+<SubTexture name="soldier idle0004" x="0" y="0" width="339" height="602" frameX="-2" frameY="0" frameWidth="343" frameHeight="602" />
+<SubTexture name="soldier idle0005" x="0" y="0" width="339" height="602" frameX="-2" frameY="0" frameWidth="343" frameHeight="602" />
+<SubTexture name="soldier idle0006" x="682" y="0" width="339" height="590" frameX="-2" frameY="-12" frameWidth="343" frameHeight="602" />
+<SubTexture name="soldier idle0007" x="682" y="0" width="339" height="590" frameX="-2" frameY="-12" frameWidth="343" frameHeight="602" />
+<SubTexture name="soldier idle0008" x="1021" y="0" width="339" height="590" frameX="-2" frameY="-12" frameWidth="343" frameHeight="602" />
+<SubTexture name="soldier idle0009" x="1021" y="0" width="339" height="590" frameX="-2" frameY="-12" frameWidth="343" frameHeight="602" />
+<SubTexture name="soldier idle0010" x="1021" y="0" width="339" height="590" frameX="-2" frameY="-12" frameWidth="343" frameHeight="602" />
+<SubTexture name="soldier idle0011" x="1021" y="0" width="339" height="590" frameX="-2" frameY="-12" frameWidth="343" frameHeight="602" />
+<SubTexture name="soldier idle0012" x="1021" y="0" width="339" height="590" frameX="-2" frameY="-12" frameWidth="343" frameHeight="602" />
+<SubTexture name="soldier idle0013" x="1021" y="0" width="339" height="590" frameX="-2" frameY="-12" frameWidth="343" frameHeight="602" />
+</TextureAtlas>

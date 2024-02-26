@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="demokill.png">
+<SubTexture name="demokill die0000" x="0" y="2385" width="736" height="924" frameX="-168" frameY="-270" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0001" x="0" y="2385" width="736" height="924" frameX="-168" frameY="-270" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0002" x="3385" y="1044" width="767" height="1038" frameX="-133" frameY="-156" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0003" x="741" y="1198" width="868" height="1183" frameX="-86" frameY="-11" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0004" x="1609" y="1198" width="868" height="1183" frameX="-86" frameY="-11" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0005" x="911" y="0" width="889" height="1194" frameX="-63" frameY="0" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0006" x="1800" y="0" width="889" height="1194" frameX="-63" frameY="0" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0007" x="0" y="0" width="911" height="1198" frameX="0" frameY="-7" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0008" x="0" y="1198" width="741" height="1187" frameX="-159" frameY="-7" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0009" x="0" y="1198" width="741" height="1187" frameX="-159" frameY="-7" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0010" x="2689" y="0" width="696" height="1179" frameX="-204" frameY="-15" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0011" x="3385" y="0" width="771" height="1044" frameX="-129" frameY="-150" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0012" x="736" y="2385" width="836" height="921" frameX="-64" frameY="-304" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0013" x="2689" y="1179" width="696" height="748" frameX="-204" frameY="-446" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0014" x="2689" y="1179" width="696" height="748" frameX="-204" frameY="-446" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0015" x="2689" y="1179" width="696" height="748" frameX="-204" frameY="-446" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0016" x="2689" y="1179" width="696" height="748" frameX="-204" frameY="-446" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0017" x="2689" y="1179" width="696" height="748" frameX="-204" frameY="-446" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0018" x="2689" y="1179" width="696" height="748" frameX="-204" frameY="-446" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0019" x="3385" y="2082" width="18" height="26" frameX="-480" frameY="-817" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0020" x="3385" y="2082" width="18" height="26" frameX="-480" frameY="-817" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0021" x="2689" y="1179" width="696" height="748" frameX="-204" frameY="-446" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0022" x="2689" y="1179" width="696" height="748" frameX="-204" frameY="-446" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0023" x="3385" y="2082" width="18" height="26" frameX="-480" frameY="-817" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0024" x="3385" y="2082" width="18" height="26" frameX="-480" frameY="-817" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0025" x="2689" y="1179" width="696" height="748" frameX="-204" frameY="-446" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0026" x="2689" y="1179" width="696" height="748" frameX="-204" frameY="-446" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0027" x="3385" y="2082" width="18" height="26" frameX="-480" frameY="-817" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0028" x="2689" y="1179" width="696" height="748" frameX="-204" frameY="-446" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0029" x="3385" y="2082" width="18" height="26" frameX="-480" frameY="-817" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0030" x="2689" y="1179" width="696" height="748" frameX="-204" frameY="-446" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0031" x="3385" y="2082" width="18" height="26" frameX="-480" frameY="-817" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0032" x="2689" y="1179" width="696" height="748" frameX="-204" frameY="-446" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0033" x="3385" y="2082" width="18" height="26" frameX="-480" frameY="-817" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0034" x="2689" y="1179" width="696" height="748" frameX="-204" frameY="-446" frameWidth="954" frameHeight="1225" />
+<SubTexture name="demokill die0035" x="3385" y="2082" width="18" height="26" frameX="-480" frameY="-817" frameWidth="954" frameHeight="1225" />
+</TextureAtlas>

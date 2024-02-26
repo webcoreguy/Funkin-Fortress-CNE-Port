@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="demo.png">
+<SubTexture name="demo idle0000" x="698" y="783" width="697" height="770" frameX="0" frameY="-13" frameWidth="698" frameHeight="783" />
+<SubTexture name="demo idle0001" x="698" y="783" width="697" height="770" frameX="0" frameY="-13" frameWidth="698" frameHeight="783" />
+<SubTexture name="demo idle0002" x="0" y="783" width="698" height="778" frameX="0" frameY="-5" frameWidth="698" frameHeight="783" />
+<SubTexture name="demo idle0003" x="0" y="783" width="698" height="778" frameX="0" frameY="-5" frameWidth="698" frameHeight="783" />
+<SubTexture name="demo idle0004" x="1390" y="0" width="696" height="781" frameX="0" frameY="-2" frameWidth="698" frameHeight="783" />
+<SubTexture name="demo idle0005" x="1390" y="0" width="696" height="781" frameX="0" frameY="-2" frameWidth="698" frameHeight="783" />
+<SubTexture name="demo idle0006" x="695" y="0" width="695" height="782" frameX="0" frameY="-1" frameWidth="698" frameHeight="783" />
+<SubTexture name="demo idle0007" x="695" y="0" width="695" height="782" frameX="0" frameY="-1" frameWidth="698" frameHeight="783" />
+<SubTexture name="demo idle0008" x="0" y="0" width="695" height="783" frameX="0" frameY="0" frameWidth="698" frameHeight="783" />
+<SubTexture name="demo idle0009" x="0" y="0" width="695" height="783" frameX="0" frameY="0" frameWidth="698" frameHeight="783" />
+<SubTexture name="demo idle0010" x="0" y="0" width="695" height="783" frameX="0" frameY="0" frameWidth="698" frameHeight="783" />
+<SubTexture name="demo idle0011" x="0" y="0" width="695" height="783" frameX="0" frameY="0" frameWidth="698" frameHeight="783" />
+<SubTexture name="demo idle0012" x="0" y="0" width="695" height="783" frameX="0" frameY="0" frameWidth="698" frameHeight="783" />
+<SubTexture name="demo idle0013" x="0" y="0" width="695" height="783" frameX="0" frameY="0" frameWidth="698" frameHeight="783" />
+</TextureAtlas>

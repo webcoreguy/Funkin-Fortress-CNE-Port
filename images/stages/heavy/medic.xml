@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="medic.png">
+<SubTexture name="medic idle0000" x="876" y="1098" width="890" height="1083" frameX="-6" frameY="-21" frameWidth="909" frameHeight="1113" />
+<SubTexture name="medic idle0001" x="876" y="1098" width="890" height="1083" frameX="-6" frameY="-21" frameWidth="909" frameHeight="1113" />
+<SubTexture name="medic idle0002" x="1765" y="0" width="895" height="1096" frameX="-6" frameY="-10" frameWidth="909" frameHeight="1113" />
+<SubTexture name="medic idle0003" x="1765" y="0" width="895" height="1096" frameX="-6" frameY="-10" frameWidth="909" frameHeight="1113" />
+<SubTexture name="medic idle0004" x="0" y="0" width="886" height="1098" frameX="-6" frameY="-6" frameWidth="909" frameHeight="1113" />
+<SubTexture name="medic idle0005" x="0" y="0" width="886" height="1098" frameX="-6" frameY="-6" frameWidth="909" frameHeight="1113" />
+<SubTexture name="medic idle0006" x="886" y="0" width="879" height="1097" frameX="-6" frameY="-5" frameWidth="909" frameHeight="1113" />
+<SubTexture name="medic idle0007" x="886" y="0" width="879" height="1097" frameX="-6" frameY="-5" frameWidth="909" frameHeight="1113" />
+<SubTexture name="medic idle0008" x="0" y="1098" width="876" height="1096" frameX="-6" frameY="-4" frameWidth="909" frameHeight="1113" />
+<SubTexture name="medic idle0009" x="0" y="1098" width="876" height="1096" frameX="-6" frameY="-4" frameWidth="909" frameHeight="1113" />
+<SubTexture name="medic idle0010" x="0" y="1098" width="876" height="1096" frameX="-6" frameY="-4" frameWidth="909" frameHeight="1113" />
+<SubTexture name="medic idle0011" x="0" y="1098" width="876" height="1096" frameX="-6" frameY="-4" frameWidth="909" frameHeight="1113" />
+<SubTexture name="medic idle0012" x="0" y="1098" width="876" height="1096" frameX="-6" frameY="-4" frameWidth="909" frameHeight="1113" />
+<SubTexture name="medic idle0013" x="0" y="1098" width="876" height="1096" frameX="-6" frameY="-4" frameWidth="909" frameHeight="1113" />
+</TextureAtlas>

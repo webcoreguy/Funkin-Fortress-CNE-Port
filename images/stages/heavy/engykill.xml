@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="engykill.png">
+<SubTexture name="engykill die0000" x="4982" y="1630" width="1180" height="1509" frameX="-276" frameY="-473" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0001" x="4982" y="1630" width="1180" height="1509" frameX="-276" frameY="-473" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0002" x="0" y="4035" width="1267" height="1306" frameX="-272" frameY="-306" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0003" x="3357" y="0" width="1625" height="2013" frameX="-6" frameY="-27" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0004" x="3357" y="0" width="1625" height="2013" frameX="-6" frameY="-27" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0005" x="1694" y="0" width="1663" height="2062" frameX="-8" frameY="-4" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0006" x="1694" y="0" width="1663" height="2062" frameX="-8" frameY="-4" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0007" x="0" y="0" width="1694" height="2237" frameX="-66" frameY="-16" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0008" x="4982" y="0" width="1212" height="1630" frameX="-278" frameY="-16" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0009" x="4982" y="0" width="1212" height="1630" frameX="-278" frameY="-16" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0010" x="1510" y="2237" width="1150" height="1750" frameX="-239" frameY="-27" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0011" x="2660" y="2237" width="1331" height="1646" frameX="-201" frameY="-268" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0012" x="0" y="2237" width="1510" height="1798" frameX="-113" frameY="-544" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0013" x="5486" y="3139" width="503" height="523" frameX="-637" frameY="-1076" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0014" x="5486" y="3139" width="503" height="523" frameX="-637" frameY="-1076" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0015" x="5486" y="3139" width="503" height="523" frameX="-637" frameY="-1076" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0016" x="5486" y="3139" width="503" height="523" frameX="-637" frameY="-1076" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0017" x="3991" y="2237" width="502" height="522" frameX="-638" frameY="-1079" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0018" x="3991" y="2237" width="502" height="522" frameX="-638" frameY="-1079" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0019" x="3991" y="2237" width="502" height="522" frameX="-638" frameY="-1079" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0020" x="3991" y="2759" width="502" height="521" frameX="-638" frameY="-1082" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0021" x="3991" y="2759" width="502" height="521" frameX="-638" frameY="-1082" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0022" x="3991" y="2759" width="502" height="521" frameX="-638" frameY="-1082" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0023" x="1267" y="4035" width="501" height="518" frameX="-641" frameY="-1087" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0024" x="1267" y="4035" width="501" height="518" frameX="-641" frameY="-1087" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0025" x="1768" y="4035" width="494" height="518" frameX="-651" frameY="-1105" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0026" x="1768" y="4035" width="494" height="518" frameX="-651" frameY="-1105" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0027" x="4982" y="3139" width="504" height="549" frameX="-688" frameY="-1131" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0028" x="3991" y="3280" width="562" height="521" frameX="-807" frameY="-1289" frameWidth="1770" frameHeight="2351" />
+<SubTexture name="engykill die0029" x="2262" y="4035" width="535" height="502" frameX="-889" frameY="-1412" frameWidth="1770" frameHeight="2351" />
+</TextureAtlas>

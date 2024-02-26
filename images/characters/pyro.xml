@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pyro.png">
+<SubTexture name="pyro danceleft0000" x="1230" y="662" width="610" height="653" frameX="-17" frameY="-7" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceleft0001" x="1230" y="662" width="610" height="653" frameX="-17" frameY="-7" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceleft0002" x="1848" y="657" width="607" height="655" frameX="-18" frameY="-8" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceleft0003" x="1848" y="657" width="607" height="655" frameX="-18" frameY="-8" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceleft0004" x="0" y="662" width="607" height="660" frameX="-20" frameY="-4" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceleft0005" x="0" y="662" width="607" height="660" frameX="-20" frameY="-4" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceleft0006" x="0" y="0" width="610" height="662" frameX="-18" frameY="-2" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceleft0007" x="610" y="0" width="616" height="662" frameX="-14" frameY="-1" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceleft0008" x="610" y="0" width="616" height="662" frameX="-14" frameY="-1" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceleft0009" x="1226" y="0" width="622" height="662" frameX="-8" frameY="-1" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceleft0010" x="607" y="662" width="623" height="657" frameX="-7" frameY="0" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceleft0011" x="607" y="662" width="623" height="657" frameX="-7" frameY="0" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceleft0012" x="1848" y="0" width="630" height="657" frameX="0" frameY="0" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceleft0013" x="0" y="1322" width="609" height="636" frameX="-21" frameY="0" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceleft0014" x="0" y="1322" width="609" height="636" frameX="-21" frameY="0" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceright0000" x="1027" y="1958" width="516" height="616" frameX="-125" frameY="-12" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceright0001" x="1027" y="1958" width="516" height="616" frameX="-125" frameY="-12" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceright0002" x="0" y="1958" width="519" height="620" frameX="-124" frameY="-11" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceright0003" x="0" y="1958" width="519" height="620" frameX="-124" frameY="-11" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceright0004" x="1620" y="1322" width="513" height="626" frameX="-124" frameY="-5" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceright0005" x="609" y="1322" width="508" height="628" frameX="-125" frameY="-3" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceright0006" x="609" y="1322" width="508" height="628" frameX="-125" frameY="-3" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceright0007" x="1117" y="1322" width="503" height="628" frameX="-127" frameY="-3" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceright0008" x="2478" y="0" width="503" height="624" frameX="-127" frameY="-3" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceright0009" x="2478" y="0" width="503" height="624" frameX="-127" frameY="-3" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceright0010" x="2478" y="624" width="503" height="622" frameX="-127" frameY="-3" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceright0011" x="519" y="1958" width="508" height="619" frameX="-122" frameY="-3" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceright0012" x="519" y="1958" width="508" height="619" frameX="-122" frameY="-3" frameWidth="643" frameHeight="664" />
+<SubTexture name="pyro danceright0013" x="519" y="1958" width="508" height="619" frameX="-122" frameY="-3" frameWidth="643" frameHeight="664" />
+</TextureAtlas>

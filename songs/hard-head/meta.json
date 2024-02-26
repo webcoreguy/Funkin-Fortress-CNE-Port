@@ -1,0 +1,15 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 100,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -327680,
+	"icon": "heavy",
+	"name": "hard-head",
+	"color": "#FB0000"
+}
