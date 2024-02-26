@@ -1,6 +1,6 @@
 <!DOCTYPE codename-engine-stage>
 <stage zoom="0.6" name="heavy" folder="stages/heavy/">
 	<girlfriend x="1450" y="-80" />
-	<dad x="-200" y="20" />
-	<boyfriend x="800" y="-20" />
+	<dad x="-200" y="-20" />
+	<boyfriend x="800" y="-5" />
 </stage>
