@@ -81,6 +81,17 @@ function create(){
     sniper.active = true;
     add(sniper);
 
+    deadsniper = new FlxSprite(800, -450);
+    deadsniper.frames = Paths.getSparrowAtlas('stages/heavy/sniperkill');
+    deadsniper.animation.addByPrefix('kill', 'sniperkill die', 24, false);
+    deadsniper.animation.play('kill');
+    deadsniper.antialiasing = true;
+    deadsniper.setGraphicSize(Std.int(deadsniper.width * 0.9));
+    deadsniper.scrollFactor.set(1, 1);
+    deadsniper.alpha = 0;
+    deadsniper.active = false;
+    add(deadsniper);
+
     medic = new FlxSprite(-800, 100);
     medic.frames = Paths.getSparrowAtlas('stages/heavy/medic');
     medic.animation.addByPrefix('dance', 'medic idle', 24, false);
@@ -141,11 +152,23 @@ function stepHit()
         deadmedic.active = true;
         deadmedic.alpha = 1;
 
-        case 819:
+          case 819:
         remove(engineer);
         add(deadengineer);
         deadengineer.active = true;
         deadengineer.alpha = 1;
+
+          case 860:
+        remove(sniper);
+        add(deadsniper);
+        deadsniper.active = true;
+        deadsniper.alpha = 1;
+
+        case 940:
+          remove(spy);
+          add(deadspy);
+          deadspy.active = true;
+          deadspy.alpha = 1;
        }
     }
      
